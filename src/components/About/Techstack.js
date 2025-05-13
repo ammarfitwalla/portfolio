@@ -3,9 +3,7 @@ import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
-  DiHtml5,
   DiReact,
-  DiNodejs,
   DiMongodb,
   DiPython,
   DiGit,
@@ -13,13 +11,9 @@ import {
   DiMysql,
 } from "react-icons/di";
 import { FaCamera } from "react-icons/fa";
-import { GiArtificialIntelligence } from "react-icons/gi";
-import { BiBarChartAlt2 } from "react-icons/bi";
 import {
   SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
   SiPostgresql,
   SiTensorflow,
   SiPytorch,
