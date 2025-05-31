@@ -7,7 +7,6 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
   DiMysql,
 } from "react-icons/di";
 import { FaCamera } from "react-icons/fa";
@@ -27,10 +26,9 @@ import {
   SiKubernetes,
   SiJenkins,
   SiGerrit,
-  SiPostman,
 
 } from "react-icons/si";
-import { TbBrandGolang, TbSql } from "react-icons/tb";
+import { TbSql } from "react-icons/tb";
 
 function Techstack() {
   return (
